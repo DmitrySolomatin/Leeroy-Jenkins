@@ -28,7 +28,7 @@ else
         <p>You are running PHP version <?= phpversion() ?></p>
         <p>This environment is launched with Elastic Beanstalk PHP Platform</p>
     </section>
-
+    <img src="Funny-Leeroy-Jenkins-memes.jpg" alt="user photo" class="photo">
     <section class="instructions">
         <h2>What's Next?</h2>
         <ul>
