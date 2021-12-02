@@ -23,12 +23,12 @@ else
 </head>
 <body>
     <section class="congratulations">
-        <h1>Congratulations!</h1>
+        <h1>Congratulations from Amazing DevOps World!</h1>
         <p>Your AWS Elastic Beanstalk <em>PHP</em> application is now running on your own dedicated environment in the AWS&nbsp;Cloud</p>
         <p>You are running PHP version <?= phpversion() ?></p>
         <p>This environment is launched with Elastic Beanstalk PHP Platform</p>
     </section>
-
+    <img src="Funny-Leeroy-Jenkins-memes.jpg" alt="user photo" class="photo">
     <section class="instructions">
         <h2>What's Next?</h2>
         <ul>
